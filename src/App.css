@@ -39,20 +39,4 @@
 body{
   background-color: rgb(241, 204, 38);
 }
-.bk{
-  background-color: rgb(183, 149, 245);
-  height: 15vh;
-  width: 25vw;
-}
-.tt{
-  width: 30%;
-}
-.bt{
-  width: 8%;
-  background-color: #003cff;
-  border: 1px solid #003cff;
-  border-radius: 50%;
-}
-.hh{
-  background-color: rgb(64, 160, 189);
-}
+
